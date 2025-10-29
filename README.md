@@ -51,7 +51,7 @@ You will however need to set up a free cluster on MongoDB Atlas and update the `
 
 1. Clone the repository and checkout the `mongodb` branch:
    ```bash
-   git clone git@github.com:jaymoh/laravel-postgresql-to-mongodb.git
+   git clone git@github.com:mongodb-developer/laravel-postgresql-to-mongodb.git
    cd laravel-postgresql-to-mongodb
    git checkout mongodb
     ```
@@ -99,7 +99,7 @@ If you prefer to set up without Docker:
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:jaymoh/laravel-postgresql-to-mongodb.git
+   git clone git@github.com:mongodb-developer/laravel-postgresql-to-mongodb.git
    cd laravel-postgresql-to-mongodb
    git checkout mongodb
     ```
