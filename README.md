@@ -50,7 +50,7 @@ The `mongodb` branch, has its own `docker-compose.yml` file that sets up the app
 
 1. Clone the repository:
    ```bash
-    git clone git@github.com:jaymoh/laravel-postgresql-to-mongodb.git
+    git clone git@github.com:mongodb-developer/laravel-postgresql-to-mongodb.git
     cd laravel-postgresql-to-mongodb
     ```
 2. Copy the `.env.example` file to `.env`:
@@ -91,7 +91,7 @@ If you prefer to set up without Docker:
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:jaymoh/laravel-postgresql-to-mongodb.git
+   git clone git@github.com:mongodb-developer/laravel-postgresql-to-mongodb.git
    cd laravel-postgresql-to-mongodb
     ```
 2. Install dependencies:
