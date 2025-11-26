@@ -40,7 +40,7 @@ Atlas Search for full text search.
 
 ### Installation and Setup
 
-**_(TODO: And the tutorial link here when it's ready)_**
+**Tutorial:** https://dev.to/mongodb/migrating-a-laravel-application-from-a-relational-database-postgresql-to-mongodb-m0m
 
 #### Quick Setup with Docker
 
